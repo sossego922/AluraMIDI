@@ -2,7 +2,7 @@
 
 projetinho basico desenvolvido no curso  de javascritp da alura 
 
-#Tecnologias
+# Tecnologias
 html 
 css
 javascritp
